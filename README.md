@@ -1,16 +1,12 @@
-## Hi there 👋
+<p>Hey there, I am Arman, a programmer and game dev!</p>
 
-<!--
-**ArmanCodes-real/ArmanCodes-real** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" style="font-size: 70">My Skills</p>
+<ul>
+  <li>HTML5, rusty</li>
+  <li>CSS3, rusty</li>
+  <li>C, rusty</li>
+  <li>C++, Game Dev, Intermediate</li>
+  <li>Pretty good at Pixel art</li>
+</ul>
