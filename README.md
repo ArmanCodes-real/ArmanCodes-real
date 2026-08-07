@@ -7,7 +7,7 @@
 <p align="center" style="font-size: 70">My Skills</p>
 <ul>
   <li>HTML5, rusty</li>
-  <img src="html.png" align="center" width="300" alt="HTML5 PIC">
+  <img src="html5.png" align="center" width="300" alt="HTML5 PIC">
 
   <li>CSS3, rusty</li>
    <img src="css3.png" align="center" width="300" alt="CSS3 PIC">
@@ -21,6 +21,8 @@
   <img src="algodoo.png" align="center" width="300" alt="ALGODOO PIC">
   <li>Blender Beginner, been making a cat shaped pencil case</li>
   <img src="blender.png" align="center" width = "300" alt="BLENDER PIC">
-
-
 </ul>
+
+<p> Anyways, I know this looks bad, but it'll improve over time</p>
+
+<p>Statuses: Trying out Algodoo, Making Cat Pencil Case in Blender, Making A GIF weekly in aseprite, Making my own Game Engine</p>
